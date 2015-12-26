@@ -1,0 +1,139 @@
+Fire Retardant - This Pokemon may not use fire type attacks.
+Dehydrated - This Pokemon may not use water type attacks.
+Sapless - This Pokemon may not use grass type attacks.
+Insulated  - This Pokemon may not use electric type attacks.
+Stupendous - This Pokemon may not use normal type attacks.
+Thawed - This Pokemon may not use ice type attacks.
+Placid - This Pokemon may not use fighting type attacks.
+Sanitary - This Pokemon may not use poison type attacks.
+Levitated - This Pokemon may not use ground type attacks.
+Grounded - This Pokemon may not use flying type attacks.
+Senseless - This Pokemon may not use psychic type attacks.
+Primary Producer - This Pokemon may not use bug type attacks.
+Spongy - This Pokemon may not use rock type attacks.
+Devout - This Pokemon may not use ghost type attacks.
+Fairy God Parent - This Pokemon may not use dragon type attacks.
+Blind - This Pokemon may not use dark type attacks.
+Molten - This Pokemon may not use steel type attacks.
+Faithless - This Pokemon may not use fairy type attacks.
+
+
+Pyrophobe - This Pokemon can not fight Fire types.
+Aquaphobe - This Pokemon can not fight Water types.
+Dendrophobe - This Pokemon can not fight Grass types.
+Electrophobe - This Pokemon can not fight Electric types.
+Athazagoraphobe - This Pokemon can not fight Normal types.
+Frigophobe - This Pokemon can not fight Ice types.
+Exerphobe - This Pokemon can not fight Fighting types.
+Germophobe - This Pokemon can not fight Poison types. 
+Tapophobe - This Pokemon can not fight Ground types.
+Phronemophobe - This Pokemon can not fight Psychic types.
+Entomophobe - This Pokemon can not fight Bug types.
+Alpineophobe - This Pokemon can not fight Rock types.
+Phasmophobe - This Pokemon can not fight Ghost types.
+Drakonophobe - This Pokemon can not fight Dragon types.
+Nyctophobe - This Pokemon can not fight Dark types.
+Urbanophobe - This Pokemon can not fight Steel types.
+Mythophobe - This Pokemon can not fight Fairy types.
+
+
+Pyromaniac - This Pokemon can only fight Fire types.
+Mermaid - This Pokemon can only fight Water types.
+Outdoorsman - This Person can only fight Grass types.
+Electrician - This Pokemon can only fight Electric types.
+Minimalist - This Pokemon can only fight Normal types.
+Snow Addict - This Pokemon can only fight Ice types.
+Body Builder - This Pokemon can only fight Fighting types.
+Medicated - This Pokemon can only fight Poison types.
+Stable - This Pokemon can only fight Ground types.
+Brainiac - This Pokemon can only fight Psychic types. 
+Bug Collector - This Pokemon can only fight Bug types.
+Miner - This Pokemon can only fight Rock types
+Ghost Buster - This Pokemon can only fight Ghost types.
+Hero - This Pokemon can only fight Dragon types.
+Emotional - This Pokemon can only fight Dark types.
+Steven Syndrome - This Pokemon can only fight Steel types.
+Believer - This Pokemon can only fight Fairy types.
+
+
+
+
+
+
+
+Lame - This Pokemon can not learn physical attacks.
+Dunce - This Pokemon can not learn special attacks.
+Softie - This Pokemon can not attack.
+
+
+Romantic - This Pokemon can only fight in double battles.
+
+
+Mennonite - This Pokemon can't learn TM/HMs
+Technology Dependent - This Pokemon can only learn and use TM/HM moves
+Slave - This Pokemon can only learn and use HM moves
+
+
+Suicidal - This Pokemon can only use recoil moves.
+Magician - This Pokemon can only use moves with secondary effects.
+Rationed - This Pokemon can only use moves under 15 PP
+Quick Draw - This Pokemon can only use priority moves.
+Deliberate - This Pokemon can't use priority moves.
+Limited - This Pokemon can only use moves of base power 60 or under.
+Limitless - This Pokemon can only use moves of base power 60 or higher.
+Dedicated - This Pokemon can only use moves of it's own typing.
+
+
+Peter Pan Syndrome - This Pokemon cannot evolve.
+
+
+Butterfingers - This Pokemon can not hold an item.
+Kleptomaniac - This Pokemon must have an item equipped before fighting.
+Burglar - This Pokemon can only hold items that were stolen. 
+Naturalist - This Pokemon will only eat herbs or berries.
+Allergic - This Pokemon cannot be healed by items.
+Heal Hog - If this Pokemon is damaged it must be healed first.
+Hard Worker - This Pokemon can't use vitamins.
+
+
+Twilight - This Pokemon must learn the move Flash before it can be used in battle.
+Famous - This Pokemon must learn the move Swagger before it can be used in battle.
+Flirty - This Pokemon must learn the move Attract before it can be used in battle.
+
+
+
+Nocturnal - This Pokemon can only fight from 6pm till 6am.
+Diurnal - This Pokemon can only fight from 6am till 6pm.
+
+Bigot - This Pokemon can only fight others of its own typing.
+Racist - This Pokemon can only fight others of the same evolution line.
+Something to Prove - This Pokemon will only fight against other that are a higher level than itself.
+Inferiority Complex - This Pokemon will only fight against others it has a type disadvantage to.
+God Complex - This Pokemon will only fight against others that are at a lower level.
+Prude - This Pokemon will only fight against other Pokemon of the same gender, or gender neutral. 
+
+
+Stage Fright - This Pokemon can not be first out in battle.
+Head Strong - This Pokemon must be out first in battle.
+Rebellious - This Pokemon can only be healed once it faints.
+Stubborn - This Pokemon can not be switched out once it is in a battle until it faints.
+Distracted - This Pokemon can only fight in every other trainer battle.
+
+
+Cheater - This Pokemon can't attack its opponent until it's inflicted with a status.
+Honorable Fighter - This Pokemon can't use status inflicting moves [Including stat debuffs]
+Paranoid - This Pokemon must decrease one of it's opponents stats fully before attacking.
+Insecure - This Pokemon must max out one of it's stats before attacking.
+Stunted - This Pokemon can't use moves that raise it's own stats.
+Back-Stabber - In double battles this Pokemon will attack its partner until no more Pokemon can be sent out. This Pokemon can then attack normally.
+
+
+Berserk - This Pokemon uses moves randomly. 
+Atrophy - This Pokemon must forget the oldest move it knows every time it learns a new one.
+Scared of Change - This Pokemon may not learn any new moves after its original four.
+Indecisive - This Pokemon may never use the same move twice in a row.
+One Track Mind - This Pokemon may only use the first move it uses in a battle, when it runs out of PP the move may change. 
+Bipolar - Roll a die, anything below half and this Pokemon can't be used in the battle.
+
+Grumpy - This Pokemon can't be used in battle unless either it's happiness or friendliness is at max.
+
